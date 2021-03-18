@@ -7,6 +7,6 @@ It appears that the full simple_synth zip file that came with the manual has bee
 
 I've also contacted Mick from the FLOSS site and he's informed me that the files do appear to be lost. While I'm learning Pure Data, I figured I'd work to recreate the missing files and have started to add these to this repo. Mick just added the `.dk` file above as `incomplete` to the FLOSS manual at https://en.flossmanuals.net/pure-data/_full/#simple-synth and will update with the full copy of files from this repo when I'm done.
 
-If you have any issues with any of this, please submit and issue report or issue a PR and I'll be happy to provide input.
+If you have any issues with any of this, please submit an issue or a pull request and I'll be happy to provide input.
 
 Thank you!

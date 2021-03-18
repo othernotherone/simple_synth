@@ -1,11 +1,11 @@
 #N canvas 502 23 768 629 12;
 #X obj 91 18 phasor~ 1000;
-#X obj 218 89 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
-1;
+#X obj 218 89 tgl 15 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 1 1;
 #X obj 218 118 metro 100;
 #N canvas 0 23 1440 855 (subpatch) 0;
-#X array waveform 1000 float 2;
-#X coords 0 1 1000 -1 200 100 1 0 0;
+#X array waveform 1000 float 0 black black;
+#X coords 0 1 999 -1 200 100 1;
 #X restore 93 259 graph;
 #X text 71 344 -1;
 #X text 77 299 0;
